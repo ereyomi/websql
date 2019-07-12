@@ -1,5 +1,5 @@
 # websql
-websql CRUD 
+
 A database API for Cordova App with
 simple CRUD (Create, Read, Update and Delete) operation.
 
